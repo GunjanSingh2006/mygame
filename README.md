@@ -3,6 +3,7 @@
 📝 Description
 
 A simple 2-player Tic-Tac-Toe game in C. Players take turns placing X and O on a 3x3 grid. The game announces a winner or a draw.
+
 ---
 ✨ Features
 
@@ -15,6 +16,7 @@ A simple 2-player Tic-Tac-Toe game in C. Players take turns placing X and O on a
 🤝 Detects draw
 
 🎨 Clean console board display
+
 ---
 🕹 How to Play
 
